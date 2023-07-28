@@ -1,10 +1,10 @@
 package metanit;
 
-public final class Person{
+public final class Person1{
     private String login;
     Account account;
 
-    public Person(String login, String password )   {
+    public Person1(String login, String password )   {
         this.login = login;
         account = new Account(password);
 
