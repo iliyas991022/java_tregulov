@@ -1,4 +1,3 @@
-package metanit;
 
 public final class Person1{
     private String login;
